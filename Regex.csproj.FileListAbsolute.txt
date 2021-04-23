@@ -1,0 +1,6 @@
+P:\ZWANDER\My Documents\CommonTools\Regex\Regex\bin\Release\Regex.dll
+P:\ZWANDER\My Documents\CommonTools\Regex\Regex\obj\Release\ResolveAssemblyReference.cache
+P:\ZWANDER\My Documents\CommonTools\Regex\Regex\obj\Release\Regex.dll
+C:\Users\zwander\Desktop\Regex\bin\Release\Regex.dll
+C:\Users\zwander\Desktop\Regex\obj\Release\ResolveAssemblyReference.cache
+C:\Users\zwander\Desktop\Regex\obj\Release\Regex.dll

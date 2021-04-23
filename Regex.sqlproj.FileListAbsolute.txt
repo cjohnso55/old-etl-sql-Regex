@@ -1,0 +1,8 @@
+C:\Users\zwander\Desktop\Regex\bin\Release\Regex.dacpac
+C:\Users\zwander\Desktop\Regex\bin\Release\Regex.dll
+C:\Users\zwander\Desktop\Regex\obj\Release\ResolveAssemblyReference.cache
+C:\Users\zwander\Desktop\Regex\obj\Release\Model.xml
+C:\Users\zwander\Desktop\Regex\obj\Release\refactor.xml
+C:\Users\zwander\Desktop\Regex\obj\Release\postdeploy.sql
+C:\Users\zwander\Desktop\Regex\obj\Release\predeploy.sql
+C:\Users\zwander\Desktop\Regex\obj\Release\Regex.dll
